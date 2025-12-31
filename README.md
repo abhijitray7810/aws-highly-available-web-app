@@ -40,7 +40,7 @@ Modern web applications face several critical challenges:
 - **Real-world scenario**: Your e-commerce site goes down during Black Friday sales
 
 ### 2. **Availability Zone Failures**
-- **Problem**: Entire data centers can experience outages (power failure, natural disasters, network issues)
+- **Problem**: Entire data centers can experience outages (power failure, natural disasters, network issues) 
 - **Impact**: Regional service disruption affecting thousands of customers
 - **Real-world scenario**: AWS us-east-1 outage in December 2021 affected major services
 
