@@ -1,7 +1,7 @@
 # aws-highly-available-web-app
 This project demonstrates how to design and deploy a highly available web application architecture on AWS by distributing traffic across multiple Availability Zones. The setup ensures fault tolerance, scalability, and high availability using core AWS networking and compute services.. 
 # 🚀 AWS Highly Available Web Application with Terraform
-
+ 
 ![Terraform](https://img.shields.io/badge/Terraform-v1.0+-623CE4?style=flat&logo=terraform)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat&logo=amazon-aws)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
